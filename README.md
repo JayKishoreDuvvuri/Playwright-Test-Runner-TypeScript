@@ -54,7 +54,7 @@ Folder Structure
 Html-test-report : npm run html-report
 ```
 
-### Github iussue on "Safari browser" for Playwright version 1.16 on macOS(Issue Resolved now with Playwright 1.17.1)
+### Github issue on "Safari browser" for Playwright version 1.16 on macOS - (Issue is resolved now with Playwright 1.17.1)
 ```bash
 https://github.com/microsoft/playwright/issues/10108#issuecomment-962635213
 https://github.com/microsoft/playwright/issues/9811
