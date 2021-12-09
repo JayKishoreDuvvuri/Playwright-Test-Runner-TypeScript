@@ -8,4 +8,3 @@ tests:
     - npm install
     - npx playwright install webkit
     - npm run test:headless:safari
-  
