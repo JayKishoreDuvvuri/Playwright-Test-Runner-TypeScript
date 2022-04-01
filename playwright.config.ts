@@ -4,7 +4,7 @@ module.exports = {
 	testDir: 'tests',
 	timeout: 90000,
 	retries: 1,
-	reporter: `list`,
+        reporter: [['junit', { outputFile: 'results.xml' }]],
 	projects: [
 		{
 			name: `Chrome`,
