@@ -15,7 +15,7 @@ Install dependencies
 ```bash
 Install Node modules: npm install
 Install default browsers: npx playwright install
-```
+``` 
 
 Run test
 
