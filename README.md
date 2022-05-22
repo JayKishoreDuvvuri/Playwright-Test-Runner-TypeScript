@@ -9,7 +9,7 @@ Clone the repository
 ```bash
 git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner-TypeScript.git
 ```
-
+ 
 Install dependencies
 
 ```bash
