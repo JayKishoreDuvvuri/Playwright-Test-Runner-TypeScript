@@ -2,7 +2,7 @@
 
 Design Page Objects and run Tests with TypeScript
 
-### Run application
+### Run application 
 
 Clone the repository   
   
