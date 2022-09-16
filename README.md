@@ -5,7 +5,7 @@ Design Page Objects and run Tests with TypeScript
 ### Run application 
 
 Clone the repository   
-  
+   
 ```bash
 git clone https://github.com/JayKishoreDuvvuri/Playwright-Test-Runner-TypeScript.git
 ```
