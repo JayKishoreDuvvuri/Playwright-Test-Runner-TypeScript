@@ -23,7 +23,7 @@ Run test
 npm run test - For all browsers including Android and IOS tests
 npm run test:chrome - For tests only on chrome browser
 npm run test:mobile - For running tests on android and iOS
-```
+``` 
 
 Folder Structure
 
