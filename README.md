@@ -67,4 +67,4 @@ https://github.com/microsoft/playwright/issues/9811
 Repo: https://gitlab.com/jaykishore96/playwright-typescript
 Pipelines: https://gitlab.com/jaykishore96/playwright-typescript/-/pipelines
 ```
-
+ 
